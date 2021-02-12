@@ -39,35 +39,42 @@ You have a full world to discover and a dungeon to finish, but do you have all t
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-You can download or just on visit the [live version](https://dnd-compendium.vercel.app/)
+You can download
+
+```
+git clone https://github.com/mattseidel/dnd-compendium
+```
+
+or just on visit the [live version](https://dnd-compendium.vercel.app/)
 
 ### Prerequisites
 
 ```
-npm install
+node = 12.16.2 or later
 ```
+
+you cant find it [here](https://nodejs.org/es/download/)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+once you have downloaded the source code, and you have installed node you can use the following command to install the dependencies
 
 ```
-Give the example
-```
-
-And repeat
+npm install
 
 ```
-until finished
+
+at the end of the installation you can use the following command to start the service
+
+```
+npm start
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+this displays the application and opens the default browser at the site [localhost:3000](http://localhost:3000)
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
+Test not added yet to the code
 
 ### Break down into end to end tests
 
@@ -87,7 +94,7 @@ Give an example
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+In the current development version it is only possible to see the information of the basic dnd classes, in future versions you will be able to see the different tabs that the navbar brings
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
@@ -95,7 +102,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [React](https://reactjs.org) - Framework
 
 ## ✍️ Authors <a name = "authors"></a>
 
@@ -105,6 +112,4 @@ See also the list of [contributors](http://www.dnd5eapi.co/) who participated in
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+thank you for reading
