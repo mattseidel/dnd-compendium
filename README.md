@@ -1,9 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">anime</h3>
+<h3 align="center">dnd-compendium</h3>
 
 <div align="center">
 
@@ -36,16 +35,16 @@
 
 You have a full world to discover and a dungeon to finish, but do you have all the adventurer information? Perfect, come and discover it with dnd-compendium. Feel free to browse the different tabs and discover all that Forgotten Realms has to teach you
 
+[classesScreen](public\capturas\classes.png)
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+You can download or just on visit the [live version](https://ddnd-compendium.vercel.app/)
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
-
 ```
-Give examples
+npm install
 ```
 
 ### Installing
