@@ -35,11 +35,11 @@
 
 You have a full world to discover and a dungeon to finish, but do you have all the adventurer information? Perfect, come and discover it with dnd-compendium. Feel free to browse the different tabs and discover all that Forgotten Realms has to teach you
 
-[!classesScreen(public/capturas/classes.png)]
+[!classesScreen(public/capturas/classes.png)]()
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-You can download or just on visit the [live version](https://ddnd-compendium.vercel.app/)
+You can download or just on visit the [live version](https://dnd-compendium.vercel.app/)
 
 ### Prerequisites
 
